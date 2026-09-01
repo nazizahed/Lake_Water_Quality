@@ -1,0 +1,14 @@
+contextily>=1.6,<2
+earthengine-api>=1.4,<2
+fiona>=1.10,<2
+geopandas>=1.0,<2
+joblib>=1.4,<2
+jupyterlab>=4,<5
+matplotlib>=3.9,<4
+numpy>=1.26,<3
+openpyxl>=3.1,<4
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+seaborn>=0.13,<1
+shapely>=2.0,<3
+torch>=2.2,<3
